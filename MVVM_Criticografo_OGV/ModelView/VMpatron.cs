@@ -4,7 +4,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
-using MVVM_Criticografo_OGV.Model;
 using MVVM_Criticografo_OGV.ModelView;
 
 
